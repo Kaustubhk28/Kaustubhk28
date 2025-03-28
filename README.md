@@ -1,7 +1,7 @@
 # Hi there 👋
 
 💻 **Data Analyst | Data Engineer** with a strong foundation in **ETL development, cloud platforms, and data visualization**  
-💼 Currently at **KeelWorks Foundation**  
+💼 Currently at **Starmark Financial LLC**  
 
 💡 **Key Expertise**:
 - Cloud Platforms: **AWS Certified (Solutions Architect Associate, Cloud Practitioner)** | **Amazon Redshift** | **Snowflake**
